@@ -10,7 +10,8 @@ namespace openXml3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine('go git');
+            Console.WriteLine("go git");
+            Console.WriteLine("it fucking worked");
         }
     }
 }
