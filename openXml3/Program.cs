@@ -12,6 +12,7 @@ namespace openXml3
         {
             Console.WriteLine("go git");
             Console.WriteLine("it fucking worked");
+            Console.WriteLine("but not now");
         }
     }
 }
