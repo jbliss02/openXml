@@ -14,7 +14,11 @@ namespace openXml3
     {
         static void Main(string[] args)
         {
-            CreateSpreadsheetWorkbook("C:\\Temp\\Test2.xlsx");
+            //CreateSpreadsheetWorkbook("C:\\Temp\\Test2.xlsx");
+            //SalesReportBuilder s = new SalesReportBuilder();
+            //s.CreateDocument();
+            jdoc j = new jdoc();
+            j.createDoc();
         }
 
         public static void CreateSpreadsheetWorkbook(string filepath)
