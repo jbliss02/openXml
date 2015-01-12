@@ -39,6 +39,7 @@ namespace openXml3
                 //Create Body (this element contains other elements that we want to include 
                 body = new Body();
 
+                string s = "kld";
                 //add styles
                 addExistingStyles();
                 //addNewStyle(mainPart);
